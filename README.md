@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+As I mentioned in my bio, I'm currently a student, learning Softawre Developing and Testing in Hungary. My future goal is to be a Fullstack Developer.
+
 <!--
 **nellerk/nellerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
